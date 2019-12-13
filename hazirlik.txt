@@ -1,0 +1,14 @@
+	yer			-	alan		-	kişi sayısı
+-------------------------------------------------
+
+// zemin kat 360m2
+restorant		-	220m2		-	250-260
+lobi			-	80m2		-	* kişi
+konferans		-	60m2		-	30 kişi
+
+// 1.kat 360m2
+toplantı salonu	-	50m2		-	25 kişi
+konferans		-	60m2		-	50 kişi
+konferans		-	130m2		-	100 kişi
+ofis*2			-	30m2(60)	-	3-4 kişi
+otel odası*2	-	40m2(80)	-	2 kişi
